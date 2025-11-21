@@ -1049,8 +1049,8 @@ main {
 
 .research-img {
   display: block;
-  width: 100%;
-  max-width: 320px;
+  width: 50%;
+  max-width: none;
   height: auto;
   margin: 14px auto 0 auto;
   border-radius: 12px;
