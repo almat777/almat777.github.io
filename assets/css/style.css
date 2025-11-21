@@ -1050,9 +1050,9 @@ main {
 .research-img {
   display: block;
   width: 100%;
-  max-width: 720px;
+  max-width: 320px;
   height: auto;
-  margin-top: 14px;
+  margin: 14px auto 0 auto;
   border-radius: 12px;
   box-shadow: var(--shadow-2);
 }
