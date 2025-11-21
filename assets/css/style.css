@@ -1037,10 +1037,14 @@ main {
 }
 
 .research-item p {
-  color: var(--light-gray);
+  color: var(--white-2);
   font-size: var(--fs-6);
   line-height: 1.6;
   margin-top: 10px;
+}
+
+.research-item .research-title {
+  color: var(--white-2);
 }
 
 .research-link {
